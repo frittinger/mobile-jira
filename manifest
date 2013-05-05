@@ -1,0 +1,9 @@
+#appname:mobile-jira
+#appid:net.schnegg.mobile.mobileJira
+#type:mobile
+#guid:d5b42639-70d6-4a34-b077-3f9b79489bde
+#version:1.0
+#publisher:Frank Rittinger
+#url:http://
+#image:appicon.png
+#desc:mobile jira client
